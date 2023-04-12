@@ -11,7 +11,7 @@ import ChatGPTKit
 import Alamofire
 import SwiftyJSON
 
-let apiOpenWeather = "fbd492ae9c66e013a352998dbdcf7cf1"
+let apiOpenWeather = "api_key"
 
 //function to close the keyboard clicking anywhere
 extension UIViewController {
@@ -63,7 +63,7 @@ class ViewController: UIViewController {
     var genderType = "Female"
     
     //chatGPT API
-    let chattyGPT = ChatGPTKit(apiKey: "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")
+    let chattyGPT = ChatGPTKit(apiKey: "api_key")
     //chatGPT first configuration
     var history = [Message(role: .system, content: "From now on you will be a clothing recommender to prepare the luggage. In the following messages you will be given the days, the location, the size of the suitcase, the gender of the person who is going to use the luggage and the description of the weather on those dates in that location. You will have to recommend the type of clothing and the quantity needed to prepare the luggage and to provide a list with all the required items.")]
 
