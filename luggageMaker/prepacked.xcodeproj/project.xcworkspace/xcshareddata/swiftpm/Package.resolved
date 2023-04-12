@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "78424be314842833c04bc3bef5b72e85fff99204",
+        "version" : "5.6.4"
+      }
+    },
+    {
+      "identity" : "chatgptkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/heysaik/ChatGPTKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "97cc17ba64d48690d8fa3acaa8b342d858ffbbc0"
+      }
+    },
+    {
+      "identity" : "openweathermap",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AnthonyArzola/OpenWeatherMap",
+      "state" : {
+        "revision" : "60d51a90e6095f5694b27d4d09db8870fbb69b16",
+        "version" : "0.1.7"
+      }
+    },
+    {
+      "identity" : "swiftyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftyJSON/SwiftyJSON",
+      "state" : {
+        "revision" : "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
+        "version" : "5.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}

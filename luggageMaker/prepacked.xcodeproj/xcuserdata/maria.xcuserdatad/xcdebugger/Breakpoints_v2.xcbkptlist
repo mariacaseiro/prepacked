@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2119AC0F-AD50-4B42-B526-8AE92219CC63"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7772B975-ED43-4CD5-B0C4-0031831BB19E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "luggageMaker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "showPrediction(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7772B975-ED43-4CD5-B0C4-0031831BB19E - dab67f0ab0e32825"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in prepacked.ViewController.showPrediction(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "prepacked"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maria/Downloads/luggageMaker/luggageMaker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  uuid = "7772B975-ED43-4CD5-B0C4-0031831BB19E - dab67f0ab0e32825"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in prepacked.ViewController.showPrediction(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "prepacked"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maria/Downloads/luggageMaker/luggageMaker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "7772B975-ED43-4CD5-B0C4-0031831BB19E - dab67f0ab0e32806"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in prepacked.ViewController.showPrediction(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "prepacked"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maria/Downloads/luggageMaker/luggageMaker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
